@@ -1,7 +1,8 @@
 <img src="https://user-images.githubusercontent.com/21162229/160209642-f0c0a2de-01dc-4bee-bf8b-40b44c5adab6.png" />
 
-<h1>Hi 👋, My name is Adam Abundis</h1>
+<h1>Hi 👋, My name is Jon</h1>
 
+edit everything
 - 🔭 4 years of front-end (JavaScript/Vue.js) development experience, 2 years of full-stack (PHP/Node.js) development experience, and 2 years training developers in full-stack (MERN stack) fundamentals.
 
 - 🌱 I’m currently learning **Vue.js, TypeScript, GraphQL**
