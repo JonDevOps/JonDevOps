@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JonDevOps
 - 👀 I’m interested in full-stack web 3 development
-- 🌱 I’m currently learning Python, JavaScript, Solidity
+- 🌱 I’m currently learning Python, JavaScript, Solidity, and Rust
 - 💞️ I’m looking to collaborate on open source software that will be useful to many developers projects across the globe
 - 📫 How to reach me https://jonathanjackson.dev
 
