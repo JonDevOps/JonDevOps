@@ -2,7 +2,7 @@
 - 👀 I’m interested in full-stack web 3 and mobile development with agentic workflows
 - 🌱 I’m currently working with Python, JavaScript, and Rust
 - 💞️ I’m looking to collaborate on open source software that will be useful to many developers projects across the globe
-- 📫 How to reach me https://jonathanjackson.dev
+- 📫 How to reach me https://jonathanjackson.me
 
 <!---
 JonDevOps/JonDevOps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
